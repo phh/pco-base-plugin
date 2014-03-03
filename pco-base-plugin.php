@@ -122,5 +122,4 @@ function pco_base() {
 }
 
 add_action( 'plugins_loaded', 'pco_base' );
-echo "<pre>"; die(print_r(pco_base()));
 
