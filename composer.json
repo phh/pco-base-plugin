@@ -1,0 +1,24 @@
+{
+    "name": "Peytz-WordPress/pco-base-plugin",
+    "description": "A base Pco Plugin.",
+    "type": "wordpress-plugin",
+    "keywords": ["wordpress", "plugin"],
+    "homepage": "https://github.com/Peytz-WordPress/pco-base-plugin",
+    "authors": [
+        {
+            "name": "Peytz & Co",
+            "email": "wordpress@peytz.dk",
+            "homepage": "http://peytz.dk"
+        },
+        {
+            "name": "Patrick Hesselberg",
+            "email": "phh@peytz.dk",
+            "homepage": "http://peytz.dk/medarbejdere/phh"
+        },
+        {
+            "name": "James Bonham",
+            "email": "jb@peytz.dk",
+            "homepage": "http://peytz.dk/medarbejdere/jb"
+        }
+    ]
+}
